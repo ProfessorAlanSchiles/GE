@@ -1,17 +1,27 @@
 body {
-	background: #000000
+	background: #00FFFF
 }
 
 #banner {
 	width: 100%;
 }
 
+#inicial {
+	height: 5%;
+	width: 98%;
+	padding: 10px;
+	margin-left: 1px;
+	border: outset;
+	
+	
+}
+
 h1 {
-	text-align: center;color: #FFFFFF; background: #FFA500
+	text-align: center; color: #FFFFFF; background: #FFA500
 }
 
 p {
-	text-align: center; color: #0000FF;
+	text-align: left; color: #000000;
 }
 
 #missao {
@@ -21,3 +31,4 @@ p {
 em strong {
 	color: #FF0000;
 }
+
